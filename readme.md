@@ -2,6 +2,9 @@
 
 With this tool is it easy to add multiple Translations for Texts, the language is choosen by the ISO code you give when you create the Object
 
+# NEEDS THIS
+[Java-JSON](https://github.com/stleary/JSON-java)
+
 ## Usage
 
 ```
