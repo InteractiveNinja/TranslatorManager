@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class ManagerTest {
+class ManagerTest {
 
     private TranslationManager translationManager;
     private ISO iso = new ISO(getClass().getResource("./config.properties").getPath(),"de");
